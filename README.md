@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1512-number-of-good-pairs) |
 ## Math
