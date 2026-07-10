@@ -5,7 +5,7 @@ class Solution {
 		ArrayList<Integer> list = new ArrayList<>(10);
 	for (int i =0;i<arr.length;i++) {
 			int min= Integer.MAX_VALUE;
-			for (int j=0;j<arr[0].length;j++) {
+			for (int j=0;j<arr[i].length;j++) {
 				if(arr[i][j]<min) {
 					min=arr[i][j];
 			}}	
