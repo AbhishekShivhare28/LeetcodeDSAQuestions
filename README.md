@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0066-plus-one) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
