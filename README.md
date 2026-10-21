@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1929-concatenation-of-array) |
 ## Matrix
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0412-fizz-buzz) |
 | [0989-add-to-array-form-of-integer](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0989-add-to-array-form-of-integer) |
 | [1512-number-of-good-pairs](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
