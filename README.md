@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0412-fizz-buzz) |
 | [0989-add-to-array-form-of-integer](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0989-add-to-array-form-of-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
