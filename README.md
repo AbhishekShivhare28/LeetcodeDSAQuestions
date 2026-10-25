@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0088-merge-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0088-merge-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
