@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1512-number-of-good-pairs) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
