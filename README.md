@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0268-missing-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -102,5 +104,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AbhishekShivhare28/LeetcodeDSAQuestions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
